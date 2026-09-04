@@ -34,12 +34,11 @@ To address this problem, the AI assistant **Voice Assistant** was created.
 
 ## 🤖 Features
 
-![](VA1.jpg)
-
 ### 1. Skill `people_profile_builder`
 
 Called with the command `/people_profile_builder`.
 
+![](VA1.jpg)
 ![](VA2.jpg)
 
 Creates a personal user profile based on their writing characteristics, as well as profiles for their contacts.
