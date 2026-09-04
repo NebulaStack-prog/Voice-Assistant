@@ -34,13 +34,23 @@ To address this problem, the AI assistant **Voice Assistant** was created.
 
 ## 🤖 Features
 
+![](VA1.jpg)
+
 ### 1. Skill `people_profile_builder`
 
 Called with the command `/people_profile_builder`.
 
+![](VA2.jpg)
+
 Creates a personal user profile based on their writing characteristics, as well as profiles for their contacts.
 
+![](VA3.jpg)
+![](VA4.jpg)
+
 Contacts can be added and removed. Each contact includes a name used by the user, aliases (if any), general communication style, and additional parameters for more accurate generation.
+
+![](VA5.jpg)
+![](VA8.jpg)
 
 As the assistant is used, it takes the user's corrections and preferences into account, allowing profiles to be gradually improved and making subsequent generations more accurate.
 
@@ -50,7 +60,11 @@ Called with the command `/improving_message`.
 
 The user sends a message that needs to be improved. The assistant analyzes the text, identifies inaccuracies and errors, and creates an improved version.
 
+![](VA6.jpg)
+
 Two message variants are generated, and the user chooses the most suitable one.
+
+![](VA7.jpg)
 
 The selected variant and the user's preferences are taken into account in subsequent generations.
 
@@ -61,6 +75,8 @@ Called with the command `/personal_voice`.
 The user specifies the topic of the message, its recipient, and the required communication style: formal, informal, or mixed.
 
 The assistant generates two message variants to choose from.
+
+![](VA9.jpg)
 
 If necessary, the user can specify which elements should be changed, after which the assistant adjusts the generated message.
 
@@ -99,7 +115,5 @@ Thus, OpenClaw acts as a connecting layer between the Telegram interface, AI age
 * Telegram Bot API
 
 * AI Agent Skills
-
-## 📸 Screenshots
 
 © NESTIMS
