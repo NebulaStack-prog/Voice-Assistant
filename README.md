@@ -18,7 +18,7 @@
 
 * It can often be difficult to switch quickly between different chats, especially when a person is busy with other tasks or when a conversation becomes so active that it is difficult to keep track of the entire context without constant involvement.
 
-To address this problem, the AI assistant **Voice Assistant** was created.
+* To address this problem, the AI assistant **Voice Assistant** was created.
 
 ## 🎯 Project Goal
 
