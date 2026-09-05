@@ -10,13 +10,13 @@
 
 ## 📖 About
 
-Every user can face a situation where a large number of messages arrive simultaneously from many different chats.
+* Every user can face a situation where a large number of messages arrive simultaneously from many different chats.
 
-These can be work chats, conversations with family and friends, study communities, and other sources of communication.
+* These can be work chats, conversations with family and friends, study communities, and other sources of communication.
 
-Each reply may require taking into account the context of the conversation, the character and communication style of the other person, the user's own writing style for a particular chat, and many other details.
+* Each reply may require taking into account the context of the conversation, the character and communication style of the other person, the user's own writing style for a particular chat, and many other details.
 
-It can often be difficult to switch quickly between different chats, especially when a person is busy with other tasks or when a conversation becomes so active that it is difficult to keep track of the entire context without constant involvement.
+* It can often be difficult to switch quickly between different chats, especially when a person is busy with other tasks or when a conversation becomes so active that it is difficult to keep track of the entire context without constant involvement.
 
 To address this problem, the AI assistant **Voice Assistant** was created.
 
