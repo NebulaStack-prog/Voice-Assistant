@@ -114,5 +114,7 @@ Thus, OpenClaw acts as a connecting layer between the Telegram interface, AI age
 * Telegram Bot API
 
 * AI Agent Skills
+  
+> Important! The bot is currently unavailable due to the lack of a virtual machine.
 
 © NESTIMS
